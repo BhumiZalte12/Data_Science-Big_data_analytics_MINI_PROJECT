@@ -1,8 +1,8 @@
-DSBDAL MINI PROJECT
+DSBDA MINI PROJECT
 
 created by : - Bhumi Zalte
 
-TOPIC  :-  MOVIE RATING and popolar movie prediction system
+TOPIC  :-  MOVIE RECCOMADATION and popolar movie prediction system
 
 Main Objective:
 
@@ -43,4 +43,4 @@ cast
 crew	
 director
 
-
+For the modeling part, i used LinearRegression, DecisionTree Regressor, RandomForest Regressor , Supprotvector Regressor & ExtraTree Regressor. From all these models ExtraTree Regressor perform well compared to the other models.So i selected ExtraTree Regressor for model creation.
